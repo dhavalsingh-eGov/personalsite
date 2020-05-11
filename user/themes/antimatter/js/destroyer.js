@@ -1726,14 +1726,14 @@ $(function () {
 
     soundManager.createSound({
       id: "explosion",
-      url: "/user/themes/antimatter/sounds/explosion_2.mp3",
+      url: "/user/themes/antimatter/sounds/shot.mp3",
       autoLoad: true,
       volume: 60,
     });
 
     soundManager.createSound({
       id: "gamestart",
-      url: "/user/themes/antimatter/sounds/gamestart.mp3",
+      url: "/user/themes/antimatter/sounds/shot.mp3",
       autoLoad: true,
     });
     //soundManager.play('shot');
