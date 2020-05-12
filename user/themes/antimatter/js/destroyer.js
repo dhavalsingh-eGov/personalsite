@@ -842,7 +842,8 @@ $(function () {
       '<div class="row">',
       '<div id="infoHoursArea" class="columns small-12 medium-12 large-6" style="padding-right: 0;">',
       // ua5 '<div class="menuItem clearfix even" style="width: 100%;">TAKE-OUT | DELIVERY 9am - 8pm DAILY<br><br>',
-      '<div class="menuItem clearfix even" style="float: left; width: 100%; font-size: 14px;">DHAVAL SINGH<br><br>',
+      '<div class="menuItem clearfix even" style="float: left; width: 10%; font-size: 14px;">DHAVAL SINGH<br><br>',
+
       // '<span class="ingredient">◊  M-F BREAKFAST  8am - 11<span style="font-family:monospace;">:</span>30am</span>',
       // '<span class="ingredient">∆  M-F LUNCH 11<span style="font-family:monospace;">:</span>30am - 5pm</span>',
       // '<span class="ingredient">○  WEEKEND 9am - 3pm</span>',
